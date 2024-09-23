@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+}
+
+.page_title{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    text-decoration-color: black;
+    color: darkblue;
+}
+
+.page_description{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 30px;
+    color: darkblue;
+}
+
+.list_image{
+    width: 10%;
+    height: 10%;
+    vertical-align: middle;
+    padding-left: 5%;
+}
+
+.list_element{
+    padding-bottom: 5%;
+    color: darkblue;
+}
