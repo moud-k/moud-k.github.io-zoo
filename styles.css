@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+}
+
+
+.list_image{
+    width: 10%;
+    height: 10%;
+    vertical-align: middle;
+    padding-left: 5%;
+}
+
+.list_element{
+    padding-bottom: 5%;
+}
