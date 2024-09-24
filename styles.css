@@ -9,12 +9,14 @@ body{
     text-decoration: underline;
     text-decoration-color: black;
     color: darkblue;
+    padding-bottom: 5%;
 }
 
-.page_description{
+.list_introduction{
     font-family:Georgia, 'Times New Roman', Times, serif ;
     font-size: 30px;
     color: darkblue;
+    padding-bottom: 5%;
 }
 
 .list_image{
@@ -27,4 +29,24 @@ body{
 .list_element{
     padding-bottom: 5%;
     color: darkblue;
+    font-weight: bold;
+}
+
+.animal_page_image{
+    width: 75%;
+    height: 75%;
+    padding-left: 12.5%;
+}
+
+.animal_page_caption{
+    text-align: center;
+    padding-bottom: 5%;
+    color: darkblue;
+}
+
+.animal_page_description{
+    font-size: 20px;
+    color: darkblue;
+    padding-bottom: 5%;
+    font-weight: bold;
 }
