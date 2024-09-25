@@ -33,9 +33,9 @@ body{
 }
 
 .animal_page_image{
-    width: 75%;
-    height: 75%;
-    padding-left: 12.5%;
+    width: 50%;
+    height: 50%;
+    padding-left: 25%;
 }
 
 .animal_page_caption{
