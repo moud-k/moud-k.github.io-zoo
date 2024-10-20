@@ -1,2 +1,2 @@
 # Project1WebDev
-moud-k.zoo.github.io
+moud-k.github.io/zoo
